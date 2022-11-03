@@ -1,4 +1,4 @@
-## Oiii eu sou a Rodrigo , criadora de conteúdo de programação e tecnologia!
+## Oiii eu sou o Rodrigo , criadora de conteúdo de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/ RodiXII">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodiXII&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
